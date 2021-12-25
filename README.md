@@ -1,5 +1,7 @@
 <h1>Đếm số lượng xe hơi</h1>
 
+<a href="https://youtu.be/C5FCaeTn4ME">Demo và giải thích</a>
+
 <table>
     <tr>
         <th>Họ tên</th>
